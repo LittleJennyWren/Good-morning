@@ -87,9 +87,9 @@ reveal:
   ## Number of slides away from the current that are visible
   #viewDistance: 3
   ## Parallax background image (e.g. "'http://avante.biz/wp-content/uploads/Nature-sunshine-wallpaper/Nature-sunshine-wallpaper58.jpg'")
-  #parallaxBackgroundImage:http://avante.biz/wp-content/uploads/Nature-sunshine-wallpaper/Nature-sunshine-wallpaper58.jpg''
+  #parallaxBackgroundImage: http://avante.biz/wp-content/uploads/Nature-sunshine-wallpaper/Nature-sunshine-wallpaper58.jpg''
   ## Parallax background size (CSS syntax, e.g. "2100px 900px")
-  #parallaxBackgroundSize:900px ''
+  #parallaxBackgroundSize: 900px ''
   ## The "normal" size of the presentation, aspect ratio will be preserved
   ## when the presentation is scaled to fit different resolutions. Can be
   ## specified using percentage units.
