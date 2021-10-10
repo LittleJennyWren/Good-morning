@@ -1,4 +1,4 @@
-layout: slide title: "Good morning!" 
+# Good morning!
 --- 
 `If not you, who? If not now, when? `
 How do you feel today?
