@@ -1,7 +1,7 @@
 
---- 
+
 `If not you, who? If not now, when? `
-## How do you feel today?
+
 ### [Awesome](https://littlejennywren.github.io/Good-morning/#/3)
 
 ### [Great!](https://littlejennywren.github.io/Good-morning/#/3)
