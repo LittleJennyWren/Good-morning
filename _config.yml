@@ -1,9 +1,9 @@
 timezone:    Europe/Berlin
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
-# baseurl:     "/github-slideshow"
+# baseurl:     "/Good-morning"
 # The allowed values are 'rouge', 'pygments' or null.
-highlighter: rouge
+highlighter: pygments
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
 markdown:    kramdown
 lsi:         false
@@ -17,8 +17,8 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
-author:      GitHubTeacher
+title:       Good-morning
+author:      LittleJennyWren
 description: A fun activity for learning Git and GitHub.
 
 sass:
@@ -26,7 +26,7 @@ sass:
 
 ## solarized variant (dark/light)
 solarized:
-  theme:     dark
+  theme:     light
 
 slideNumber:
   # Slide number formatting can be configured using these variables:
